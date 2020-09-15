@@ -1,4 +1,4 @@
-![Swiss logo](/red-cross-303433_1280.png)
+![Swiss logo](/cross.png)
 
 About
 ===============
@@ -19,7 +19,7 @@ Swiss7, is a tool that uses mojangs api module, that has many useful tools.
 
 
 ```
-git clone (github link)
+git clone https://github.com/lasscat/Swiss7
 ```
 
 ```
