@@ -1,4 +1,4 @@
-![Swiss logo](/images/red-cross-303433_1280.png)
+![Swiss logo](/red-cross-303433_1280.png)
 
 About
 ===============
