@@ -4,7 +4,7 @@ About
 ===============
 Swiss7, is a tool that uses mojangs api module, that has many useful tools.
 
-This repo has since been abonded and not maintained anmymore. I may change this in the future or may not, sorry everyone. :C
+This repo has since been abandoned and not maintained anmymore. I may change this in the future or may not, sorry everyone. :C
 
 
 # Features
